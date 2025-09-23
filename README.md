@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `Full Stack`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `Web Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
