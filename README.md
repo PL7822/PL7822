@@ -11,7 +11,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://68d1ab46dbe1320008797ec0--portfolio-master-pritam.netlify.app/project)**
+- 🙋‍♂️ All about me is at **[My Website](https://portfolio-master-pritam.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
