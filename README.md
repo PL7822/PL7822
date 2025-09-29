@@ -26,6 +26,30 @@
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
+  ## 🔥 Top Languages  
+<div align=center >
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PL7822&layout=compact&theme=tokyonight" />
+</div>
+
+   ## 🚀 Skills Progress  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/CSS-80%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" height="30px"/>
+  <img src="https://img.shields.io/badge/React-60%25-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" height="30px"/>
+  <img src="https://img.shields.io/badge/Node.js-65%25-43853d?style=for-the-badge&logo=node.js&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Express-55%25-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" height="30px"/>
+  <img src="https://img.shields.io/badge/MongoDB-70%25-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/NPM-60%25-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Bootstrap-75%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Material--UI-65%25-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Git-70%25-F05032?style=for-the-badge&logo=git&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-60%25-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30px"/>
+</p>
+
+
+
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -53,12 +77,12 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PL7822&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PL7822&show_icons=true&theme=tokyonight" /> <br> 
+   
 </div>
 
-### Hi there 👋, I'm Pritam  
 
-![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=PL7822&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PL7822&layout=compact&theme=tokyonight)
+
+
 
