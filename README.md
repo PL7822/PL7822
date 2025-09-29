@@ -55,3 +55,10 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PL7822&show_icons=true" />
 </div>
+
+### Hi there 👋, I'm Pritam  
+
+![GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=PL7822&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PL7822&layout=compact&theme=tokyonight)
+
