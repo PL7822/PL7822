@@ -27,9 +27,9 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
   ## 🔥 Top Languages  
-<div align=center >
+<!-- <div align=center >
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PL7822&layout=compact&theme=tokyonight" />
-</div>
+</div> -->
 
    ## 🚀 Skills Progress  
 
