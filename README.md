@@ -31,6 +31,28 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PL7822&layout=compact&theme=tokyonight" />
 </div> -->
 
+
+### 🔄 Automation & APIs
+- n8n
+- REST API
+- JSON
+- HTTP / GET / POST
+- API Integration
+- Workflow Automation
+
+  ### 🔄 n8n API Automation
+
+My first practical n8n automation project.
+
+**What it does:**
+- Fetches users using a REST API
+- Extracts name and email
+- Sends data using a POST request
+- Checks the API response using an IF node
+- Handles successful responses
+
+🔗 **[View Project →]()**
+
    ## 🚀 Skills Progress  
 
 <p align="center">
