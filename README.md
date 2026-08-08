@@ -51,7 +51,7 @@ My first practical n8n automation project.
 - Checks the API response using an IF node
 - Handles successful responses
 
-🔗 **[View Project →]()**
+🔗 **[View Project →](https://github.com/PL7822/n8n-api-automation)**
 
    ## 🚀 Skills Progress  
 
